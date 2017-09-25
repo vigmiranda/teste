@@ -1,9 +1,9 @@
 # Teste
 Resolução de Teste
 
-1 - https://github.com/vigmiranda/socio_torcedor
+1 - 
 
-2 -
+2 - https://github.com/vigmiranda/socio_torcedor
 
 3 - 
 
